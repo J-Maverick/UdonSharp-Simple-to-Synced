@@ -9,8 +9,11 @@ The project demonstrates how to move from purely local interactions to synchroni
 - Local interaction patterns (single-player style behavior)
 - Synced interaction patterns (state and events across players)
 - Ownership transfer examples
-- Join-in-progress handling examples
-- Persistence and utility interaction demos
+- Late-joiner handling examples
+- Persistence demos
+- AudioSource usage
+- Object Pooling
+- Particles and Particle collisions
 
 The main demo scene is:
 
@@ -58,7 +61,7 @@ This project includes VRChat package references in `Packages/packages-lock.json`
 - `Assets/Scripts/TeleportPad/TeleportPad.cs`
   - Trigger-based teleport between paired pads with cooldown.
 - `Assets/Scripts/PlayerPositionPersistence/PositionPersistence.cs`
-  - Restores and periodically saves local player position/rotation using persistence APIs.
+  - Restores and periodically saves local player position/rotation using persistent PlayerData.
 
 ### Object Pooling
 
@@ -82,6 +85,7 @@ This project includes VRChat package references in `Packages/packages-lock.json`
 2. Compare with their synced counterparts.
 3. Review ownership-sensitive examples (object pool, fire wand).
 4. Explore late-join behavior (`OnPlayerJoined`, `OnDeserialization`, `OnPlayerRestored`).
+5. Explore Persistent PlayerData and PlayerObjects
 5. Apply the same patterns to your own world systems.
 
 ## Notes
