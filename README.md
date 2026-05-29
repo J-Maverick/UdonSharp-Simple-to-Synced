@@ -42,10 +42,11 @@ Choose one of the following setup options:
 ### Option 2: Download the `.unitypackage` from Releases
 
 1. Download the latest `.unitypackage` from the repository **Releases** section.
-2. Open your target VRChat world project in Unity.
+2. Create a new world project in **VRChat Creator Companion**: open VCC, go to **Projects**, click **Create New Project**, choose the **Worlds** template (or **VRChat World Project**), name it, and click **Create Project**.
 3. Import the `.unitypackage` (`Assets` -> `Import Package` -> `Custom Package...`).
 4. Resolve any package prompts, if shown.
-5. Test the imported examples in your scene.
+5. Open `Assets/Scenes/DemoScene.unity`.
+6. Enter Play Mode, or use ClientSim for local testing.
 
 ## Example Scripts (By Topic)
 
