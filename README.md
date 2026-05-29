@@ -1,6 +1,6 @@
-# Udon# Simple to Synced - Example Project
+# Udon#: From Simple to Synced - Example Project
 
-This repository is a collection of Unity + UdonSharp examples that accompany the **"Udon# Simple to Synced"** presentation for **Furality Ultra 2026**.
+This repository is a collection of Unity + UdonSharp examples that accompany the **"Udon#: From Simple to Synced"** presentation for **Furality Ultra 2026**.
 
 The project demonstrates how to move from purely local interactions to synchronized multiplayer behaviors in VRChat worlds.
 
