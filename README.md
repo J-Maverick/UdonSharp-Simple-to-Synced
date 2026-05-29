@@ -29,11 +29,23 @@ This project includes VRChat package references in `Packages/packages-lock.json`
 
 ## Getting Started
 
+Choose one of the following setup options:
+
+### Option 1: Clone the full project
+
 1. Clone this repository.
 2. Open it through **VRChat Creator Companion** as an existing project.
 3. Ensure project packages resolve successfully.
 4. Open `Assets/Scenes/DemoScene.unity`.
 5. Enter Play Mode, or use ClientSim for local testing.
+
+### Option 2: Download the `.unitypackage` from Releases
+
+1. Download the latest `.unitypackage` from the repository **Releases** section.
+2. Open your target VRChat world project in Unity.
+3. Import the `.unitypackage` (`Assets` -> `Import Package` -> `Custom Package...`).
+4. Resolve any package prompts, if shown.
+5. Test the imported examples in your scene.
 
 ## Example Scripts (By Topic)
 
