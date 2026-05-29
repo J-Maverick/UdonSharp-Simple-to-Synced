@@ -1,0 +1,43 @@
+{
+	"100145": [
+		[
+			{
+				"gemColor": {
+					"T": "C",
+					"r": 0.1656503,
+					"g": 0.2234534,
+					"b": 0.187727,
+					"a": 1
+				}
+			},
+			{
+				"Position": {
+					"T": "V3",
+					"x": 5.630398,
+					"y": 1.445944,
+					"z": -2.548706
+				},
+				"Rotation": {
+					"T": "Q",
+					"x": -0.7226432,
+					"y": -0.03378092,
+					"z": 0.1391888,
+					"w": -0.6762191
+				},
+				"Velocity": {
+					"T": "V3",
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"IsKinematic": true,
+				"UseGravity": false,
+				"Discontinuity": "not available",
+				"DiscontinuityCounter": "not available",
+				"WasSleeping": true,
+				"Time": 8.808386,
+				"HeldInHand": "not available"
+			}
+		]
+	]
+}

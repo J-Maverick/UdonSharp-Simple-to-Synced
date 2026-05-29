@@ -1,0 +1,27 @@
+{
+  "LastPosition": {
+    "LastUpdated": "2026-05-26T20:47:13.0296691-05:00",
+    "Key": "LastPosition",
+    "Value": {
+      "type": "Vector3",
+      "value": {
+        "x": -3.18524837,
+        "y": 0.005000174,
+        "z": -2.419923
+      }
+    }
+  },
+  "LastRotation": {
+    "LastUpdated": "2026-05-26T20:47:13.5303944-05:00",
+    "Key": "LastRotation",
+    "Value": {
+      "type": "Quaternion",
+      "value": {
+        "x": 0.0,
+        "y": 0.0888952538,
+        "z": 0.0,
+        "w": -0.996041059
+      }
+    }
+  }
+}
